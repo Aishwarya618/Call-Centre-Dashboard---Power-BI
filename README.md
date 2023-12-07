@@ -1,4 +1,4 @@
-The Call Centre Dashboard using Power BI is a dynamic reporting tool designed to provide insights into call center operations. This Power BI dashboard enables call center managers and supervisors to monitor key performance indicators (KPIs) and make data-driven decisions to improve efficiency and customer satisfaction.
+The Call Centre Dashboard using Power BI is a dynamic reporting tool designed to provide insights into call centre operations. This Power BI dashboard enables call centre managers and supervisors to monitor key performance indicators (KPIs) and make data-driven decisions to improve efficiency and customer satisfaction.
 
 This includes features like as follows:
 
